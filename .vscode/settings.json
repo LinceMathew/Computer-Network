@@ -1,7 +1,0 @@
-{
-  "files.associations": {
-    "fcntl.h": "c",
-    "stat.h": "c",
-    "inet.h": "c"
-  }
-}
